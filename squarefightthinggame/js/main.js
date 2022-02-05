@@ -4,7 +4,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
 	var w = cvs.width;
 	var h = cvs.height;
-
+	//testtesttest
 	cvs.width = 400;
 	cvs.height = 400;
 
